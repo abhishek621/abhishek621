@@ -7,8 +7,8 @@ architecture, and API development.
 
 ## 🔧 Technologies & Tools
 - **Programming Languages:** Java
-- **Framework:** Spring Boot
-- **Database:** MySQL, SQL Server, DynamoDB
+- **Framework:** Spring Boot, Hibernate(JPA), Quarkus
+- **Databases:** MySQL, SQL Server, DynamoDB
 - **Tools & Technologies:** Maven, Gradle, Git, Docker
 - **Testing:** JUnit, Mockito
 - **Cloud Platforms:** AWS
