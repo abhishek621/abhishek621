@@ -1,7 +1,7 @@
 # Hello, I'm Abhishek👋
 
 ## About Me
-I am a passionate Java Spring Boot developer with over 5 years of experience in designing and implementing robust and 
+I am a passionate java spring boot developer with over 5 years of experience in designing and implementing robust and 
 scalable software solutions. My expertise lies in creating backend systems that power web applications, microservices 
 architecture, and API development.
 
@@ -18,7 +18,6 @@ I believe in continuous learning and staying up-to-date with the latest technolo
 
 ## 👨‍💻 Projects
 Here are a few projects I've worked on:
-
 https://github.com/abhishek621/Spring-Boot-Jpa-Crud-Example 
 https://github.com/abhishek621/Spring-Boot-Blog-Rest-Api)
 https://github.com/abhishek621/Spring-Boot-JPA-Crud-Operation
@@ -32,7 +31,6 @@ https://github.com/abhishek621/Hibernate-OneToOne-Association
 
 ## 📝 Blog
 I occasionally write about my experiences and insights in the tech industry. Check out my latest blog posts:
-
 https://medium.com/@abhishek-shekhar92
 
 ## 📫 Let's Connect
