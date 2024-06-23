@@ -19,25 +19,7 @@ I believe in continuous learning and staying up-to-date with the latest technolo
 ## 👨‍💻 Projects
 Here are a few projects I've worked on:
 
-https://github.com/abhishek621/Spring-Boot-Jpa-Crud-Example 
-
-https://github.com/abhishek621/Spring-Boot-Blog-Rest-Api)
-
-https://github.com/abhishek621/Spring-Boot-JPA-Crud-Operation
-
-https://github.com/abhishek621/SpringBoot-Exception-Handling
-
-https://github.com/abhishek621/Hibernate-Fundamentals
-
-https://github.com/abhishek621/Hibernate-Eager-vs-Lazy-Loading
-
-https://github.com/abhishek621/Hibernate-Many2Many-Bidirectional
-
-https://github.com/abhishek621/Hibernate-OneToMany-Association
-
-https://github.com/abhishek621/Hibernate-OneToOne-Bi-Association-
-
-https://github.com/abhishek621/Hibernate-OneToOne-Association
+https://github.com/abhishek621?tab=repositories
 
 ## 📝 Blog
 I occasionally write about my experiences and insights in the tech industry. Check out my latest blog posts:
