@@ -41,6 +41,7 @@ https://github.com/abhishek621/Hibernate-OneToOne-Association
 
 ## 📝 Blog
 I occasionally write about my experiences and insights in the tech industry. Check out my latest blog posts:
+
 https://medium.com/@abhishek-shekhar92
 
 https://dev.to/abhishek999
