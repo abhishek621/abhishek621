@@ -14,7 +14,7 @@ architecture, and API development.
 - **Cloud Platforms:** AWS
 
 ## 🌱 I'm Currently Learning
-I believe in continuous learning and staying up-to-date with the latest technologies. Currently, I am focused on improving my skills in Spring Cloud, Kubernetes, and exploring serverless architecture.
+I believe in continuous learning and staying up-to-date with the latest technologies. Currently, I am focused on improving my skills in Full Stack Development, Kubernetes, and exploring AWS services.
 
 ## 👨‍💻 Projects
 Here are a few projects I've worked on:
