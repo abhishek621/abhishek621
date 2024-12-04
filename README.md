@@ -2,8 +2,8 @@
 
 ## About Me
 I am a passionate java spring boot developer with over 5 years of experience in designing and implementing robust and 
-scalable software solutions. My expertise lies in creating backend systems that power web applications, microservices 
-architecture, and API development.
+scalable software solutions. My expertise lies in creating backend systems that power web applications, mobile applications
+using monolith and microservices architecture.
 
 ## 🔧 Technologies & Tools
 - **Programming Languages:** Java
